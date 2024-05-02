@@ -2,6 +2,6 @@
 
 
 ## van Genuchten Retention model parameters
-| Attempt | #1    | #2    |
-| :---:   | :---: | :---: |
-| Seconds | 301   | 283   |
+| Parameter | Sand  | Loamy sand  | Sandy loam | Loam |
+| :---:     | :---: | :---: | :---: | :---: |
+| Seconds   | 301   | 283   |||
