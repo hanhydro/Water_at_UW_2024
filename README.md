@@ -9,7 +9,7 @@
 | dy  | [m<sup>3</sup>/m<sup>3</sup>]| 0.43   | 0.41   | 0.41|
 
 
-## van Genuchten Retention model parameters
+## Aquifer properties
 | Parameter | Description | Sand  | Loamy sand  | Sandy loam |
 | :---:     | :---: | :---: | :---: | :---: |
 | $\alpha$  | [1/m] |14.5   | 12.4   | 7.5 | 
