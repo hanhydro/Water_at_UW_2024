@@ -1,5 +1,6 @@
 # Numerical model details
 
+## Model dimensions
 
 ## van Genuchten Retention model parameters
 | Parameter | Description | Sand  | Loamy sand  | Sandy loam | Loam |
