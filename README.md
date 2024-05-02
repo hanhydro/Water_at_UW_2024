@@ -1,4 +1,4 @@
-# Numerical model details
+# Numerical model details (Han and Loheide, Water@UW Spring Symposium, 2024)
 
 ## Model dimensions
 | Parameter | Description | Sand  | Loamy sand  | Sandy loam |
