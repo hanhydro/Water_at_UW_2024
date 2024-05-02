@@ -19,7 +19,7 @@
 
 
 
-## van Genuchten Retention model parameters
+## van Genuchten Retention model parameters. Mean values from Carsel and Parrish (1988).
 | Parameter | Description | Sand  | Loamy sand  | Sandy loam |
 | :---:     | :---: | :---: | :---: | :---: |
 | $\alpha$  | [1/m] |14.5   | 12.4   | 7.5 | 
